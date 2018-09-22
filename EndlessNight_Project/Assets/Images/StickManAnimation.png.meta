@@ -1,0 +1,932 @@
+fileFormatVersion: 2
+guid: d30c89ae317224b4b815f2c56102862c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StickManAnimation_0
+    21300002: StickManAnimation_1
+    21300004: StickManAnimation_2
+    21300006: StickManAnimation_3
+    21300008: StickManAnimation_4
+    21300010: StickManAnimation_5
+    21300012: StickManAnimation_6
+    21300014: StickManAnimation_7
+    21300016: StickManAnimation_8
+    21300018: StickManAnimation_9
+    21300020: StickManAnimation_10
+    21300022: StickManAnimation_11
+    21300024: StickManAnimation_12
+    21300026: StickManAnimation_13
+    21300028: StickManAnimation_14
+    21300030: StickManAnimation_15
+    21300032: StickManAnimation_16
+    21300034: StickManAnimation_17
+    21300036: StickManAnimation_18
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StickManAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 36
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce6d3069ecb6c54cae45d7e5fbdb69e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickManAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 322
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325196fbab72c724d8c91eb48ff99bd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickManAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 319
+        width: 113
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7bb938b920dad4bb31c95467f23767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickManAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 312
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd41f3ce3a561a49aabd9b565465106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickManAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 312
+        width: 66
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057a483c7c2d0964699c2d85720378e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickManAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 314
+        width: 51
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd77468d3e0af2438b6819012e18c11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickManAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 314
+        width: 61
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65bcf9dcd78c6a4bad74e8706b289c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickManAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 315
+        width: 85
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dca8d74c0426df44a32a436eda43ad4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickManAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 162
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97d25589ab14b143bcd71e4711294e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickManAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 162
+        width: 112
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a94628b9fe3104d9f8402267eb4374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickManAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 155
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216befd44191b1948a1c71c94c8c3ad2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickManAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 155
+        width: 67
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfe21dbf1286144d8ab610fad0267b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickManAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 156
+        width: 51
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7480d76f2d22a4fa900df5889d28a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickManAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 157
+        width: 61
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746967eef4ce8214a8caaf78a92c33b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickManAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 157
+        width: 84
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7b51ac370798642beb8a8b76bfcaf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickManAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 57
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a41780a1e184a94b9f9be0cc10f3c42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickManAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b6118aeeab18242ba129776dd61cea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickManAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 58
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e463c42a1989e4fa9f3a8ebdfbbccc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickManAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 87
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691ffa58785d0cf4590900fa94f56140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -237.5, y: -96.5}
+      - {x: -298.5, y: -96.5}
+      - {x: -298.5, y: -219.5}
+      - {x: -271.5, y: -219.5}
+      - {x: -240.5, y: -203.5}
+      - {x: -239.5, y: -164.5}
+      - {x: -242.5, y: -156.5}
+      - {x: -237.5, y: -147.5}
+    - - {x: -185.5, y: -219.5}
+      - {x: -179.5, y: -219.5}
+      - {x: -178.5, y: -218.5}
+      - {x: -143.5, y: -170.5}
+      - {x: -134.5, y: -148.5}
+      - {x: -134.5, y: -119.5}
+      - {x: -184.5, y: -119.5}
+      - {x: -233.5, y: -188.5}
+      - {x: -233.5, y: -219.5}
+      - {x: -221.5, y: -219.5}
+      - {x: -200.5, y: -194.5}
+      - {x: -198.5, y: -189.5}
+      - {x: -189.5, y: -212.5}
+    - - {x: -81.5, y: -96.5}
+      - {x: -116.5, y: -96.5}
+      - {x: -122.5, y: -98.5}
+      - {x: -122.5, y: -219.5}
+      - {x: -94.5, y: -219.5}
+      - {x: -70.5, y: -207.5}
+      - {x: -60.5, y: -191.5}
+      - {x: -60.5, y: -122.5}
+    - - {x: 22.5, y: -122.5}
+      - {x: -0.5, y: -122.5}
+      - {x: -33.5, y: -141.5}
+      - {x: -64.5, y: -204.5}
+      - {x: -64.5, y: -219.5}
+      - {x: 22.5, y: -219.5}
+      - {x: 26.5, y: -213.5}
+      - {x: 26.5, y: -127.5}
+    - - {x: -19.5, y: 57.5}
+      - {x: -30.5, y: 31.5}
+      - {x: -33.5, y: 12.5}
+      - {x: -34.5, y: -7.5}
+      - {x: -58.5, y: -13.5}
+      - {x: -66.5, y: -23.5}
+      - {x: -66.5, y: -55.5}
+      - {x: -45.5, y: -66.5}
+      - {x: 11.5, y: -66.5}
+      - {x: 4.5, y: -22.5}
+      - {x: 17.5, y: -22.5}
+      - {x: 17.5, y: 57.5}
+    - - {x: 69.5, y: 55.5}
+      - {x: 48.5, y: 16.5}
+      - {x: 48.5, y: -47.5}
+      - {x: 84.5, y: -66.5}
+      - {x: 106.5, y: -66.5}
+      - {x: 119.5, y: -13.5}
+      - {x: 119.5, y: 55.5}
+    - - {x: 158.5, y: -60.5}
+      - {x: 165.5, y: -65.5}
+      - {x: 179.5, y: -65.5}
+      - {x: 213.5, y: -5.5}
+      - {x: 213.5, y: 51.5}
+      - {x: 210.5, y: 57.5}
+      - {x: 173.5, y: 57.5}
+      - {x: 158.5, y: 15.5}
+    - - {x: 239.5, y: -62.5}
+      - {x: 242.5, y: -64.5}
+      - {x: 296.5, y: -64.5}
+      - {x: 304.5, y: -29.5}
+      - {x: 304.5, y: 57.5}
+      - {x: 243.5, y: 57.5}
+      - {x: 239.5, y: 55.5}
+    - - {x: 365.5, y: -31.5}
+      - {x: 369.5, y: -15.5}
+      - {x: 372.5, y: -28.5}
+      - {x: 376.5, y: -40.5}
+      - {x: 384.5, y: -45.5}
+      - {x: 415.5, y: -17.5}
+      - {x: 415.5, y: 59.5}
+      - {x: 412.5, y: 60.5}
+      - {x: 364.5, y: 60.5}
+      - {x: 327.5, y: -9.5}
+      - {x: 327.5, y: -63.5}
+      - {x: 328.5, y: -64.5}
+      - {x: 336.5, y: -64.5}
+      - {x: 338.5, y: -62.5}
+      - {x: 338.5, y: -58.5}
+      - {x: 360.5, y: -37.5}
+    - - {x: -205.5, y: 57.5}
+      - {x: -243.5, y: 57.5}
+      - {x: -271.5, y: 4.5}
+      - {x: -272.5, y: -5.5}
+      - {x: -265.5, y: -7.5}
+      - {x: -307.5, y: -53.5}
+      - {x: -307.5, y: -59.5}
+      - {x: -247.5, y: -59.5}
+      - {x: -202.5, y: -43.5}
+      - {x: -202.5, y: 56.5}
+    - - {x: -144.5, y: 60.5}
+      - {x: -167.5, y: 29.5}
+      - {x: -186.5, y: -24.5}
+      - {x: -186.5, y: -56.5}
+      - {x: -180.5, y: -59.5}
+      - {x: -141.5, y: -43.5}
+      - {x: -100.5, y: -59.5}
+      - {x: -70.5, y: -59.5}
+      - {x: -70.5, y: 58.5}
+      - {x: -76.5, y: 60.5}
+    - - {x: -391.5, y: 217.5}
+      - {x: -407.5, y: 217.5}
+      - {x: -415.5, y: 212.5}
+      - {x: -415.5, y: 155.5}
+      - {x: -408.5, y: 90.5}
+      - {x: -382.5, y: 90.5}
+      - {x: -377.5, y: 163.5}
+      - {x: -377.5, y: 208.5}
+      - {x: -383.5, y: 216.5}
+    - - {x: -17.5, y: 214.5}
+      - {x: -23.5, y: 207.5}
+      - {x: -32.5, y: 172.5}
+      - {x: -33.5, y: 148.5}
+      - {x: -53.5, y: 145.5}
+      - {x: -65.5, y: 137.5}
+      - {x: -65.5, y: 99.5}
+      - {x: -50.5, y: 90.5}
+      - {x: 18.5, y: 90.5}
+      - {x: 18.5, y: 214.5}
+    - - {x: 71.5, y: 213.5}
+      - {x: 50.5, y: 193.5}
+      - {x: 50.5, y: 102.5}
+      - {x: 72.5, y: 90.5}
+      - {x: 112.5, y: 90.5}
+      - {x: 120.5, y: 123.5}
+      - {x: 120.5, y: 213.5}
+    - - {x: 171.5, y: 214.5}
+      - {x: 160.5, y: 164.5}
+      - {x: 160.5, y: 92.5}
+      - {x: 186.5, y: 92.5}
+      - {x: 215.5, y: 140.5}
+      - {x: 215.5, y: 213.5}
+      - {x: 212.5, y: 214.5}
+    - - {x: 258.5, y: 214.5}
+      - {x: 241.5, y: 149.5}
+      - {x: 241.5, y: 95.5}
+      - {x: 248.5, y: 92.5}
+      - {x: 275.5, y: 92.5}
+      - {x: 306.5, y: 154.5}
+      - {x: 306.5, y: 214.5}
+    - - {x: 391.5, y: 93.5}
+      - {x: 406.5, y: 93.5}
+      - {x: 415.5, y: 119.5}
+      - {x: 415.5, y: 217.5}
+      - {x: 363.5, y: 217.5}
+      - {x: 328.5, y: 119.5}
+      - {x: 328.5, y: 96.5}
+      - {x: 334.5, y: 93.5}
+      - {x: 340.5, y: 93.5}
+      - {x: 341.5, y: 94.5}
+      - {x: 366.5, y: 123.5}
+      - {x: 373.5, y: 114.5}
+    - - {x: -120.5, y: 217.5}
+      - {x: -129.5, y: 215.5}
+      - {x: -145.5, y: 182.5}
+      - {x: -141.5, y: 157.5}
+      - {x: -185.5, y: 119.5}
+      - {x: -185.5, y: 97.5}
+      - {x: -68.5, y: 97.5}
+      - {x: -68.5, y: 196.5}
+      - {x: -85.5, y: 217.5}
+    - - {x: -234.5, y: 219.5}
+      - {x: -244.5, y: 205.5}
+      - {x: -263.5, y: 162.5}
+      - {x: -256.5, y: 161.5}
+      - {x: -252.5, y: 164.5}
+      - {x: -290.5, y: 121.5}
+      - {x: -299.5, y: 106.5}
+      - {x: -299.5, y: 100.5}
+      - {x: -239.5, y: 100.5}
+      - {x: -193.5, y: 102.5}
+      - {x: -193.5, y: 219.5}
+    physicsShape:
+    - - {x: -237.5, y: -123.5}
+      - {x: -245.5, y: -96.5}
+      - {x: -289.5, y: -96.5}
+      - {x: -297.5, y: -103.5}
+      - {x: -297.5, y: -218.5}
+      - {x: -295.5, y: -219.5}
+      - {x: -272.5, y: -219.5}
+      - {x: -245.5, y: -201.5}
+      - {x: -242.5, y: -160.5}
+      - {x: -237.5, y: -157.5}
+    - - {x: -141.5, y: -120.5}
+      - {x: -185.5, y: -120.5}
+      - {x: -232.5, y: -177.5}
+      - {x: -232.5, y: -219.5}
+      - {x: -178.5, y: -219.5}
+      - {x: -135.5, y: -157.5}
+      - {x: -135.5, y: -126.5}
+    - - {x: -66.5, y: -156.5}
+      - {x: -69.5, y: -158.5}
+      - {x: -61.5, y: -148.5}
+      - {x: -61.5, y: -138.5}
+      - {x: -82.5, y: -96.5}
+      - {x: -116.5, y: -96.5}
+      - {x: -118.5, y: -97.5}
+      - {x: -121.5, y: -208.5}
+      - {x: -121.5, y: -210.5}
+      - {x: -115.5, y: -219.5}
+      - {x: -95.5, y: -219.5}
+      - {x: -69.5, y: -207.5}
+      - {x: -61.5, y: -171.5}
+      - {x: -61.5, y: -165.5}
+    - - {x: 20.5, y: -159.5}
+      - {x: 25.5, y: -148.5}
+      - {x: 25.5, y: -127.5}
+      - {x: 22.5, y: -123.5}
+      - {x: -6.5, y: -123.5}
+      - {x: -27.5, y: -130.5}
+      - {x: -63.5, y: -190.5}
+      - {x: -63.5, y: -219.5}
+      - {x: -6.5, y: -219.5}
+      - {x: 25.5, y: -182.5}
+      - {x: 25.5, y: -164.5}
+      - {x: 10.5, y: -157.5}
+      - {x: -4.5, y: -157.5}
+      - {x: 12.5, y: -157.5}
+    - - {x: -172.5, y: -155.5}
+      - {x: -170.5, y: -157.5}
+      - {x: -172.5, y: -156.5}
+    - - {x: -23.5, y: 56.5}
+      - {x: -65.5, y: 14.5}
+      - {x: -65.5, y: -46.5}
+      - {x: -21.5, y: -66.5}
+      - {x: 16.5, y: -66.5}
+      - {x: 16.5, y: 54.5}
+      - {x: 15.5, y: 56.5}
+    - - {x: 101.5, y: -30.5}
+      - {x: 92.5, y: -14.5}
+      - {x: 96.5, y: -21.5}
+      - {x: 99.5, y: -22.5}
+      - {x: 103.5, y: -15.5}
+      - {x: 118.5, y: 15.5}
+      - {x: 118.5, y: 54.5}
+      - {x: 76.5, y: 54.5}
+      - {x: 49.5, y: 1.5}
+      - {x: 49.5, y: -51.5}
+      - {x: 77.5, y: -66.5}
+      - {x: 100.5, y: -66.5}
+      - {x: 99.5, y: -61.5}
+      - {x: 97.5, y: -59.5}
+      - {x: 100.5, y: -35.5}
+    - - {x: 197.5, y: 12.5}
+      - {x: 212.5, y: 23.5}
+      - {x: 212.5, y: 48.5}
+      - {x: 207.5, y: 54.5}
+      - {x: 202.5, y: 56.5}
+      - {x: 178.5, y: 56.5}
+      - {x: 159.5, y: 45.5}
+      - {x: 159.5, y: -64.5}
+      - {x: 211.5, y: -64.5}
+      - {x: 212.5, y: -62.5}
+      - {x: 212.5, y: 8.5}
+      - {x: 210.5, y: 8.5}
+    - - {x: 293.5, y: 56.5}
+      - {x: 261.5, y: 56.5}
+      - {x: 241.5, y: -8.5}
+      - {x: 254.5, y: -8.5}
+      - {x: 259.5, y: 0.5}
+      - {x: 240.5, y: -48.5}
+      - {x: 240.5, y: -64.5}
+      - {x: 260.5, y: -64.5}
+      - {x: 303.5, y: -26.5}
+      - {x: 303.5, y: 48.5}
+      - {x: 302.5, y: 52.5}
+    - - {x: 383.5, y: -42.5}
+      - {x: 404.5, y: -11.5}
+      - {x: 414.5, y: 22.5}
+      - {x: 414.5, y: 55.5}
+      - {x: 406.5, y: 59.5}
+      - {x: 362.5, y: 59.5}
+      - {x: 327.5, y: -19.5}
+      - {x: 327.5, y: -60.5}
+      - {x: 328.5, y: -61.5}
+      - {x: 332.5, y: -63.5}
+      - {x: 341.5, y: -63.5}
+      - {x: 363.5, y: -34.5}
+      - {x: 367.5, y: -23.5}
+      - {x: 376.5, y: -38.5}
+    - - {x: -242.5, y: 56.5}
+      - {x: -258.5, y: 49.5}
+      - {x: -272.5, y: 0.5}
+      - {x: -270.5, y: -7.5}
+      - {x: -306.5, y: -52.5}
+      - {x: -306.5, y: -58.5}
+      - {x: -273.5, y: -58.5}
+      - {x: -207.5, y: -46.5}
+      - {x: -203.5, y: -29.5}
+      - {x: -203.5, y: 56.5}
+    - - {x: -96.5, y: -14.5}
+      - {x: -81.5, y: 13.5}
+      - {x: -76.5, y: 29.5}
+      - {x: -76.5, y: 31.5}
+      - {x: -89.5, y: 59.5}
+      - {x: -141.5, y: 59.5}
+      - {x: -147.5, y: 22.5}
+      - {x: -141.5, y: 0.5}
+      - {x: -135.5, y: 3.5}
+      - {x: -135.5, y: 6.5}
+      - {x: -132.5, y: -9.5}
+      - {x: -176.5, y: -37.5}
+      - {x: -185.5, y: -47.5}
+      - {x: -185.5, y: -58.5}
+      - {x: -75.5, y: -58.5}
+      - {x: -71.5, y: -53.5}
+      - {x: -71.5, y: -49.5}
+      - {x: -73.5, y: -47.5}
+    - - {x: 269.5, y: -14.5}
+      - {x: 276.5, y: -21.5}
+      - {x: 269.5, y: -22.5}
+    - - {x: -415.5, y: 138.5}
+      - {x: -407.5, y: 90.5}
+      - {x: -377.5, y: 90.5}
+      - {x: -377.5, y: 217.5}
+      - {x: -413.5, y: 217.5}
+      - {x: -415.5, y: 211.5}
+    - - {x: -15.5, y: 214.5}
+      - {x: -28.5, y: 186.5}
+      - {x: -36.5, y: 148.5}
+      - {x: -28.5, y: 148.5}
+      - {x: -25.5, y: 151.5}
+      - {x: -24.5, y: 157.5}
+      - {x: -25.5, y: 144.5}
+      - {x: -59.5, y: 143.5}
+      - {x: -64.5, y: 129.5}
+      - {x: -64.5, y: 125.5}
+      - {x: -60.5, y: 120.5}
+      - {x: -5.5, y: 90.5}
+      - {x: 18.5, y: 90.5}
+      - {x: 18.5, y: 214.5}
+    - - {x: 95.5, y: 212.5}
+      - {x: 87.5, y: 211.5}
+      - {x: 81.5, y: 199.5}
+      - {x: 51.5, y: 135.5}
+      - {x: 51.5, y: 100.5}
+      - {x: 68.5, y: 90.5}
+      - {x: 115.5, y: 90.5}
+      - {x: 120.5, y: 138.5}
+      - {x: 120.5, y: 205.5}
+      - {x: 109.5, y: 212.5}
+    - - {x: 184.5, y: 214.5}
+      - {x: 172.5, y: 200.5}
+      - {x: 161.5, y: 149.5}
+      - {x: 161.5, y: 102.5}
+      - {x: 171.5, y: 93.5}
+      - {x: 183.5, y: 93.5}
+      - {x: 214.5, y: 113.5}
+      - {x: 214.5, y: 214.5}
+    - - {x: 305.5, y: 210.5}
+      - {x: 293.5, y: 214.5}
+      - {x: 267.5, y: 214.5}
+      - {x: 255.5, y: 188.5}
+      - {x: 251.5, y: 155.5}
+      - {x: 251.5, y: 150.5}
+      - {x: 254.5, y: 149.5}
+      - {x: 257.5, y: 152.5}
+      - {x: 241.5, y: 107.5}
+      - {x: 241.5, y: 104.5}
+      - {x: 249.5, y: 93.5}
+      - {x: 251.5, y: 93.5}
+      - {x: 254.5, y: 96.5}
+      - {x: 299.5, y: 139.5}
+      - {x: 305.5, y: 172.5}
+    - - {x: 405.5, y: 217.5}
+      - {x: 375.5, y: 217.5}
+      - {x: 363.5, y: 202.5}
+      - {x: 351.5, y: 153.5}
+      - {x: 356.5, y: 153.5}
+      - {x: 359.5, y: 156.5}
+      - {x: 329.5, y: 111.5}
+      - {x: 329.5, y: 98.5}
+      - {x: 334.5, y: 93.5}
+      - {x: 407.5, y: 93.5}
+      - {x: 415.5, y: 111.5}
+      - {x: 415.5, y: 215.5}
+    - - {x: -397.5, y: 102.5}
+      - {x: -397.5, y: 107.5}
+      - {x: -398.5, y: 98.5}
+    - - {x: -184.5, y: 98.5}
+      - {x: -69.5, y: 98.5}
+      - {x: -69.5, y: 214.5}
+      - {x: -70.5, y: 217.5}
+      - {x: -148.5, y: 217.5}
+      - {x: -184.5, y: 161.5}
+    - - {x: -229.5, y: 219.5}
+      - {x: -244.5, y: 207.5}
+      - {x: -261.5, y: 169.5}
+      - {x: -259.5, y: 160.5}
+      - {x: -255.5, y: 161.5}
+      - {x: -249.5, y: 169.5}
+      - {x: -251.5, y: 146.5}
+      - {x: -297.5, y: 111.5}
+      - {x: -298.5, y: 106.5}
+      - {x: -298.5, y: 101.5}
+      - {x: -242.5, y: 101.5}
+      - {x: -194.5, y: 103.5}
+      - {x: -194.5, y: 215.5}
+      - {x: -210.5, y: 219.5}
+    - - {x: 271.5, y: 136.5}
+      - {x: 270.5, y: 144.5}
+      - {x: 278.5, y: 136.5}
+      - {x: 276.5, y: 136.5}
+      - {x: 271.5, y: 135.5}
+      - {x: 270.5, y: 134.5}
+    - - {x: -203.5, y: 188.5}
+      - {x: -203.5, y: 191.5}
+      - {x: -206.5, y: 187.5}
+      - {x: -206.5, y: 182.5}
+      - {x: -208.5, y: 183.5}
+    bones: []
+    spriteID: acfad8ff08a907d489a535ab9832d2ba
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
