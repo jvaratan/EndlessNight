@@ -50,18 +50,22 @@ public class EnemyUnit : MonoBehaviour {
     {
         if (other.tag == "Unit")
         {
+            m_gameManager.TimeManager.DoSlowmotion();
             m_enemyAnim.SetAnimation(EnemyAnimationStatus.Attack);
 
             StartCoroutine(HitUnit(other.GetComponent<Unit>()));
-
         }
     }
 
     IEnumerator HitUnit(Unit unit)
     {
-        m_gameManager.SoundManager.PlaySFXOneShot(m_hitSound);
         yield return new WaitForSeconds(0.4f);
+        m_gameManager.SoundManager.PlaySFXOneShot(m_hitSound);
         unit.UnitDie();
+
+        // Stasrt record Gif
+        yield return new WaitForSeconds(0.5f);
+        m_gameManager.Record.DoRecord();
     }
 
     // When boss is off screen show icon

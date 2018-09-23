@@ -22,6 +22,12 @@ public class GameManager : MonoBehaviour {
     public SoundManager SoundManager { get { return m_soundManager; } }
     private SoundManager m_soundManager;
 
+    public TimeManager TimeManager { get { return m_timeManager; } }
+    private TimeManager m_timeManager;
+
+    public Record Record { get { return m_record; } }
+    private Record m_record;
+
     public GameStatus GameStatus { get { return m_gameStatus; } }
     private GameStatus m_gameStatus;
 
@@ -43,6 +49,8 @@ public class GameManager : MonoBehaviour {
     private void Awake()
     {
         m_soundManager = GameObject.Find("SoundManager").GetComponent<SoundManager>();
+        m_timeManager = GameObject.Find("TimeManager").GetComponent<TimeManager>();
+        m_record = Camera.main.GetComponent<Record>();
         m_unit = GameObject.Find("Unit").GetComponent<Unit>();
         m_enemy = GameObject.Find("Enemy").GetComponent<EnemyUnit>();
     }
